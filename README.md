@@ -13,7 +13,7 @@
 ## 🚀 About Me
 
 - 👨‍💻 I’m a passionate developer focused on building impactful solutions.
-- 🌱 Currently learning: Next.js, AI/ML, and Cloud Computing.
+- 🌱 Currently learning: ROS2, AI/ML, and Gazebo.
 - 💬 Ask me about JavaScript, Python, or anything tech-related!
 - 🛠️ Typically working with: React, Node.js, TypeScript, and Python.
 - 📫 How to reach me: DM me in Instagram/linkedIn.
@@ -21,7 +21,7 @@
 
 
 ## 🌐 Socials
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/_._p1_x_._)
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/sinanp1x)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/muhammedsinanp1x)
 [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@muhammedsinanp1x)
 
